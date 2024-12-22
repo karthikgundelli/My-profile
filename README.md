@@ -6,9 +6,9 @@ I’m Karthik, a passionate **Web Developer** eager to explore the world of web 
 
 -**Bachelor's Degree(2021-25)**:In COMPUTER SCIENCE AND ENGINEERING from Holy Mary Instituite of Technology and Science(hyderabad)
 
--**intermediate(2019-21)**:In MPC from Telangana Model Junior college(Mirdoddi)
+-**intermediate(2019-21)**:In MPC from Telangana Model Junior college(Mirdoddi) with CGPA-84%
 
--**SSC or tength(2019)**:from Telangana Model School(mirdoddi)
+-**SSC or tength(2019)**:from Telangana Model School(mirdoddi) with CGPA-95%
 
 ## 📚 Skills & Technologies
 
