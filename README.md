@@ -2,6 +2,14 @@
 Welcome to my GitHub profile! 👋  
 I’m Karthik, a passionate **Web Developer** eager to explore the world of web technologies and build innovative solutions. I am currently diving deep into **HTML**, **CSS**, **JavaScript**, **Python**, **SQL**, and **Django**.
 
+## Education background👩‍💻🔰🔰
+
+-**Bachelor's Degree(2021-25)**:In COMPUTER SCIENCE AND ENGINEERING from Holy Mary Instituite of Technology and Science(hyderabad)
+
+-**intermediate(2019-21)**:In MPC from Telangana Model Junior college(Mirdoddi)
+
+-**SSC or tength(2019)**:from Telangana Model School(mirdoddi)
+
 ## 📚 Skills & Technologies
 
 Here are the technologies I am actively learning and working with:
