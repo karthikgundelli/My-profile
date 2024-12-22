@@ -1,5 +1,4 @@
-# 👨‍💻 Karthik's Web Development Portfolio
-
+# 👨‍💻 Well come to my profile
 Welcome to my GitHub profile! 👋  
 I’m Karthik, a passionate **Web Developer** eager to explore the world of web technologies and build innovative solutions. I am currently diving deep into **HTML**, **CSS**, **JavaScript**, **Python**, **SQL**, and **Django**.
 
